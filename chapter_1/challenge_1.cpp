@@ -1,5 +1,6 @@
 //Programming challenge. Chapter 1 - Challenge 1.
 //Calculate how much an organization earns selling candy bars.
+
 #include <iostream>
 using namespace std;
 

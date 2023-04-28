@@ -10,10 +10,10 @@ int main(){
     cout << "Please enter the amount spent on soil." << endl;
     cin >> soil_price;
 
-    cout << "Please enter the amount spent on seeds" << endl; 
+    cout << "Please enter the amount spent on seeds." << endl; 
     cin >> seeds_price;
     
-    cout << "Please enter the amount spent on the fence" << endl; 
+    cout << "Please enter the amount spent on the fence." << endl; 
     cin >> fence_price;
 
     total_price = soil_price + seeds_price + fence_price;

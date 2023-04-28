@@ -10,7 +10,7 @@ int main(){
     cout << "Please enter the length of the garden in feet." << endl;
     cin >> length;
 
-    cout << "Please enter the width of the garden in feet" << endl; 
+    cout << "Please enter the width of the garden in feet." << endl; 
     cin >> width;
 
     area = length * width;
