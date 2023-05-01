@@ -27,7 +27,7 @@ int main(){
     tipAmount = totalPrice / 100.0 * tipPercentage;
     totalPrice = totalPrice + tipAmount; // Add the tip amount to the total price.
 
-    cout << "Meal price :$" << mealPrice << endl;
+    cout << "Meal price: $" << mealPrice << endl;
     cout << "Tax: $" << taxAmount << endl;
     cout << "Tip: $" << tipAmount << endl;
     cout << "Total: $" << totalPrice << endl;

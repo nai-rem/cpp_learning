@@ -14,8 +14,9 @@ highway."
 using namespace std;
 
 int main(){
+    int
+        tankCapacity = 20; // Car tank capacity in gallons
     double
-        tankCapacity = 20, // Car tank capacity in gallons
         townMpg = 23.5, // Miles per gallon when driven in town
         highwayMpg = 28.9, // Miles per gallon when driven on the highway
         
